@@ -1,5 +1,5 @@
 bool isPalindrome(int x) {
-    double pali=0;
+    long pali=0;
     int rem;
     long temp=x;
     while(x>0){
